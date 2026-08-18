@@ -1,0 +1,3 @@
+# Weekly Team Update
+
+This week the team shipped the redesigned onboarding flow to 100% of users and saw a 12% lift in day-1 activation during early monitoring, closed out the long-running flaky-test cleanup in CI (build times down ~18%), and made solid progress on the new billing API integration, which is now in code review and on track for next week's release; on the people side we welcomed two new engineers who are ramping up well, and the main risks to watch are a third-party payments vendor's delayed API docs and a bit of scope creep on the reporting dashboard that we're addressing in Monday's planning sync.
